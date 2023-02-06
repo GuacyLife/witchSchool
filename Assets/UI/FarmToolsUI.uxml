@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/Style.uss?fileID=7433441132597879392&amp;guid=32a5f667bc4d9fc4f880a62d56cbf58d&amp;type=3#Style" />
+    <ui:VisualElement style="background-image: url(&apos;project://database/Assets/arts/sprits/inventory/%E8%83%8C%E5%8C%85%E5%9F%BA%E6%9C%AC%E5%BA%95%E5%9B%BE.png?fileID=1133168026&amp;guid=0c55887ade1efc34cae28d8e1fed2de3&amp;type=3#背包基本底图_0&apos;); width: 466px; height: 496px; -unity-slice-left: 0; -unity-background-image-tint-color: rgb(241, 235, 235); padding-left: 0; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; left: 10%; top: 5%; display: flex; visibility: visible;">
+        <ui:Button display-tooltip-when-elided="true" name="material_choose" class="button-style-1" style="left: 80%;" />
+        <ui:Button display-tooltip-when-elided="true" name="food_choose" class="button-style-2" style="border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0; -unity-background-image-tint-color: rgba(255, 255, 255, 0);" />
+        <ui:Button display-tooltip-when-elided="true" name="tool_choose" enable-rich-text="false" class="button-style-3" style="left: 80%; -unity-background-image-tint-color: rgba(255, 255, 255, 0);" />
+    </ui:VisualElement>
+</ui:UXML>

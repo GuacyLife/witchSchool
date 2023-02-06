@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d175b4fa7f53ac4438abde5207230a52, type: 3}
+  m_Name: F_2
+  m_EditorClassIdentifier: 
+  Id: 0
+  uiDispaly: {fileID: 161011997, guid: 76b99261bd696dc4f9c170d77afc6ba7, type: 3}
+  type: 0
+  description: "\u52A0\u5165\u4E86\u6708\u6842\u8C03\u6599\uFF0C\u5927\u706B\u70E7\u6210\u7684\u6E38\u9F99\u9EC4\u9C7C\u3002\u83DC\u54C1\u6446\u76D8\u5341\u5206\u7279\u522B\uFF0C\u636E\u8BF4\u83DC\u540D\u4E5F\u56E0\u6B64\u800C\u6765\u3002"
+  buffs: []
+  restoreHealthValue: 0

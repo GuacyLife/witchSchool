@@ -1,0 +1,41 @@
+.button-style-1 {
+    top: 24%;
+    visibility: visible;
+    background-color: rgba(228, 228, 228, 0);
+    height: 79px;
+    width: 110px;
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0);
+    background-image: url('project://database/Assets/arts/sprits/inventory/%E6%9D%90%E6%96%99%E4%BE%BF%E7%AD%BE%E9%80%89%E4%B8%AD%E6%80%81.png?fileID=-211124499&guid=f7f295eaa38bb204c92eeef489b87f1b&type=3#材料便签选中态_0');
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    left: 50px;
+}
+
+.button-style-2 {
+    top: 32%;
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    width: 120px;
+    height: 79px;
+    background-image: url('project://database/Assets/arts/sprits/inventory/%E6%96%99%E7%90%86%E4%BE%BF%E7%AD%BE%E9%80%89%E4%B8%AD%E6%80%81.png?fileID=604061936&guid=90b59f37607ffe647bcfe7160d3546ff&type=3#料理便签选中态_0');
+    background-color: rgba(228, 228, 228, 0);
+    border-left-width: 1px;
+    border-right-width: 1px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    left: 80%;
+}
+
+.button-style-3 {
+    top: 39%;
+    width: 110px;
+    height: 85px;
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    background-image: url('project://database/Assets/arts/sprits/inventory/%E9%81%93%E5%85%B7%E4%BE%BF%E7%AD%BE%E9%80%89%E4%B8%AD%E6%80%81.png?fileID=19969391&guid=bd083b329c392744f953c91177d59a89&type=3#道具便签选中态_0');
+    background-color: rgba(228, 228, 228, 0);
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+}
